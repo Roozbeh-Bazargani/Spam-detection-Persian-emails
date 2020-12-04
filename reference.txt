@@ -1,0 +1,2 @@
+https://github.com/kharazi/persian-stopwords
+https://github.com/omidrohanian/Spam-Filtering-For-Persian/tree/master/emails
